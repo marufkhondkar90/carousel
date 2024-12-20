@@ -1,0 +1,21 @@
+  /* Custom styles */
+    .carousel-item img {
+      height: 600px;
+      object-fit: cover;
+    }
+    .team-member {
+      text-align: center;
+    }
+    .team-member img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+    }
+    .card-body {
+      text-align: center;
+    }
+    .carousel-caption h5 {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+   
